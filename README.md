@@ -89,7 +89,7 @@
 ---
 
 ## 📫 Connect With Me
-- 💼 LinkedIn: *(add your LinkedIn URL)*
+- 💼 LinkedIn: https://www.linkedin.com/in/aslam-nadaf-java-fullstack/
 - 📧 Email: imaslamnn@gmail.com
 
 ---
