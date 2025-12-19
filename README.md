@@ -82,9 +82,13 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=aslamnadaf&show_icons=true&hide_border=true" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aslamnadaf&layout=compact&hide_border=true" />
+</p>
+
 
 ---
 
