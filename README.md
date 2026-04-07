@@ -1,157 +1,141 @@
-<h1 align="center">Hi 👋, I'm Aslam Nadaf</h1>
+<h1 align="center">Aslam Nadaf</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+Microservices+%7C+React;Building+clean%2C+efficient%2C+maintainable+code" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer+%7C+2%2B+Years+Experience;Microservices+%7C+Spring+Boot+%7C+React.js;Building+Scalable%2C+Production-Grade+Applications" />
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/aslamndf"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:imaslamnn@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/aslamndf"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=aslamndf&style=for-the-badge&color=0e75b6&label=Profile+Views" />
+  <a href="https://linkedin.com/in/aslamndf">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:imaslamnn@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/aslamndf">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=aslamndf&style=for-the-badge&color=0e75b6&label=Profile+Views"/>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 🧑‍💻 About Me
 
-- 🎓 **B.E. in Computer Science** – SECAB Institute of Engineering and Technology (2024)
-- 💼 **Java Full Stack Developer Intern** at Besant Technologies, Bangalore (Jun 2024 – May 2025)
-- 🔧 Strong foundation in **Core & Advanced Java** — Collections, Multithreading, Exception Handling, JDBC
-- 🏗️ Experienced in **Microservices Architecture** with Spring Boot, Spring Cloud, Eureka & API Gateway
-- ⚛️ Frontend development using **React.js** (Hooks, Components, State Management)
-- 🤖 Built AI-powered applications integrating **Google Gemini API**
-- 🔐 Hands-on with **OAuth 2.0 + PKCE** for securing REST APIs
-- 📍 Based in **Bangalore** | Immediate Joiner | Open to Relocation
+Java Full Stack Developer with **2+ years of hands-on experience** designing and delivering scalable backend systems and full-stack web applications. Proficient in **Spring Boot**, **Microservices Architecture**, and **React.js**, with a track record of building production-grade REST APIs, integrating AI services, and securing applications with OAuth2.
+
+Experienced across the full development lifecycle — from system design and database modelling to API development, testing, and frontend integration. Known for writing clean, maintainable, and efficient code with a strong grasp of OOPs principles and layered architecture patterns.
+
+📍 Bangalore, India &nbsp;|&nbsp; 📞 +91-7676000723 &nbsp;|&nbsp; ✉️ imaslamnn@gmail.com &nbsp;|&nbsp; 🟢 Available Immediately
 
 ---
 
-## 🛠️ Tech Stack
+## 💼 Work Experience
 
-### Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=java,spring,hibernate" />
-</p>
+### Java Full Stack Developer
+**Besant Technologies** — Bangalore &nbsp;|&nbsp; `Jun 2024 – May 2025`
 
-- **Core & Advanced Java** — OOPs, Collections, Multithreading, Exception Handling, JDBC
-- **Spring Ecosystem** — Spring Boot, Spring Cloud, Spring Data JPA, Spring WebFlux, Spring MVC
-- **Architecture** — Microservices, MVC, Layered Architecture
-- **Security** — OAuth 2.0, PKCE
-- **API** — RESTful API Design, API Gateway, Eureka Service Discovery
-
-### Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,js,html,css" />
-</p>
-
-- React.js — Hooks, Components, State Management
-- JavaScript (ES6+), HTML5, CSS3
-- REST API integration
-
-### Database
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql" />
-</p>
-
-- MySQL, SQL — Joins, Indexing, Query Optimisation
-- Spring Data JPA / Hibernate, DBMS Concepts
-
-### Tools & Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,maven,idea,vscode,postman" />
-</p>
+- Designed, developed, and tested RESTful API endpoints for client-facing web applications using **Core Java** and **Spring Boot**, with full API documentation via Postman
+- Applied **OOPs principles**, JDBC, and MVC layered architecture to deliver clean, maintainable backend code across multiple project milestones
+- Managed and optimised relational database schemas in **MySQL** — wrote complex SQL queries with joins, indexing strategies, and full CRUD operations via **Spring Data JPA**
+- Debugged and resolved technical issues across backend services and database layers; collaborated with cross-functional teams to meet delivery timelines
+- Contributed to frontend development using **HTML5, CSS3, and JavaScript** for responsive UI integration with backend services
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
-### 🤖 AI Fitness App
-**Tech:** Java 21, Spring Boot, Spring Cloud, WebFlux, Spring Data JPA, Eureka, OAuth2, Google Gemini API
+### 🤖 AI Fitness App — Microservices + AI Integration
+**`Java 21` `Spring Boot` `Spring Cloud` `WebFlux` `Eureka` `OAuth2` `Google Gemini API`**
 
-> A production-style microservices application with 3 independent services: **User Management**, **Activity Tracking**, and **AI Processing**.
+> A production-grade microservices application with **3 independent services** — User Management, Activity Tracking, and AI Processing — built following real-world enterprise architecture standards.
 
-- Integrated **Google Gemini API** to deliver personalised AI-driven fitness recommendations
-- Secured REST APIs using **OAuth2 + PKCE**; configured **API Gateway** routing and **Eureka** service discovery
-- Built non-blocking backend services using **Spring WebFlux** for high-concurrency performance
-- Followed clean layered architecture with maintainable Java code across all services
+- Architected a distributed system with **API Gateway** routing and **Eureka Service Discovery** for centralised, scalable service management
+- Integrated **Google Gemini API** to deliver personalised, AI-driven fitness recommendations based on user activity data
+- Secured all API endpoints using **OAuth2 + PKCE** authentication flow
+- Built non-blocking, high-performance backend services using **Spring WebFlux** and reactive programming patterns
+- Followed strict layered architecture with clean separation of concerns across all 3 microservices
 
-🔗 [View Repository](https://github.com/aslamndf/AIFitnessApp)
+[![Repo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aslamndf/AIFitnessApp)
 
 ---
 
-### 🏨 Hotel Review Platform
-**Tech:** Java, Spring Boot, Spring Data JPA, MySQL, REST APIs, React.js
+### 🏨 Hotel Review Platform — Full Stack Web App
+**`Java` `Spring Boot` `Spring Data JPA` `MySQL` `REST APIs` `React.js`**
 
-> A full-stack platform for hotel listings, user reviews, and ratings.
+> A full-stack platform for hotel listings, user reviews, and ratings — built end-to-end from database design to responsive frontend.
 
-- Designed and optimised **MySQL schemas** for hotels, users, and reviews — applied indexing and query optimisation
-- Built clean backend logic using **OOPs + Spring Data JPA**; validated all endpoints using **Postman**
-- Supported frontend with **React.js** for hotel listings and user-submitted reviews with a responsive UI
+- Designed and optimised **MySQL database schemas** for hotels, users, and reviews — implemented joins, indexing, and query optimisation strategies for efficient data retrieval
+- Built a clean, maintainable backend using **OOPs principles** and **Spring Data JPA**; validated all API endpoints via Postman and resolved data consistency issues
+- Developed a responsive frontend with **React.js** and JavaScript, displaying dynamic hotel listings and user-submitted reviews
 
-🔗 [View Repository](https://github.com/aslamndf/HotelReviewPlatform)
+[![Repo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aslamndf/HotelReviewPlatform)
 
 ---
 
 ### 🧑‍🎓 Student Management App
-**Tech:** Java, Servlets, JSP, JDBC, SQL
+**`Java` `Servlets` `JSP` `JDBC` `MySQL`**
 
-> A web-based system for administrators to manage student records with full CRUD operations.
+> A web-based admin system for managing student records with full CRUD operations, built on MVC architecture.
 
-- MVC architecture with database-driven design
-- Efficient SQL queries and data handling via JDBC
-
-🔗 [View Repository](https://github.com/aslamndf/StudentManageApp)
+[![Repo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aslamndf/StudentManageApp)
 
 ---
 
 ### 🌾 Rural Problems & Solutions Portal
-**Tech:** Java, HTML
+**`Java` `HTML` `CSS`**
 
-> A platform for rural residents to report problems and for authorities to address them.
+> A civic-tech portal that enables rural residents to report local problems and allows authorities to track and resolve them.
 
-🔗 [View Repository](https://github.com/aslamndf/Rural_problems_and_solutions)
-
----
-
-## 💼 Experience
-
-**Java Full Stack Developer Intern** — Besant Technologies, Bangalore
-`Jun 2024 – May 2025`
-
-- Designed, developed, and tested RESTful APIs for a client-facing web application using Core Java and Spring Boot
-- Applied OOPs, JDBC, and layered MVC architecture; managed MySQL schemas and wrote optimised SQL queries
-- Debugged and resolved technical issues across backend services and database layers
-- Supported frontend development using HTML5, CSS3, and JavaScript for responsive UI integration
+[![Repo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aslamndf/Rural_problems_and_solutions)
 
 ---
 
-## 🏅 Certifications
+## 🛠️ Technical Skills
 
-- 🤖 **Generative AI Mastermind** — Outskill (Vaibhav Sisinty)
-- ☕ **Java (Intermediate)** — LinkedIn Learning
+| Domain | Skills |
+|---|---|
+| **Languages** | Java (Core & Advanced), JavaScript (ES6+), SQL |
+| **Backend** | Spring Boot, Spring Cloud, Spring Data JPA, Spring WebFlux, Spring MVC, JDBC |
+| **Frontend** | React.js (Hooks, Components, State Management), HTML5, CSS3 |
+| **Database** | MySQL, JPA / Hibernate, Query Optimisation, Indexing, DBMS |
+| **Architecture** | Microservices, MVC, Layered Architecture, OOP Design Patterns |
+| **Security & APIs** | OAuth 2.0, PKCE, RESTful API Design, API Gateway, JSON, Postman |
+| **Tools** | Git, GitHub, Maven, IntelliJ IDEA, VS Code, Eureka |
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aslamndf&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aslamndf&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aslamndf&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aslamndf&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aslamndf&theme=tokyonight&hide_border=true" width="60%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aslamndf&theme=tokyonight&hide_border=true" width="60%"/>
 </p>
 
 ---
 
-## 📫 Connect With Me
+## 🎓 Education & Certifications
 
-<p align="left">
-  <a href="https://linkedin.com/in/aslamndf">💼 LinkedIn</a> &nbsp;|&nbsp;
-  <a href="mailto:imaslamnn@gmail.com">📧 imaslamnn@gmail.com</a> &nbsp;|&nbsp;
-  <a href="https://github.com/aslamndf">🐙 GitHub</a>
+🎓 **B.E. in Computer Science & Engineering** — SECAB Institute of Engineering and Technology, 2024
+
+🏅 **Generative AI Mastermind** — Outskill (Vaibhav Sisinty)
+
+🏅 **Java (Intermediate)** — LinkedIn Learning
+
+---
+
+## 📫 Let's Connect
+
+I'm always open to discussing new opportunities, collaborations, or interesting engineering challenges.
+
+<p>
+  <a href="https://linkedin.com/in/aslamndf"><b>💼 LinkedIn</b></a> &nbsp;·&nbsp;
+  <a href="mailto:imaslamnn@gmail.com"><b>📧 imaslamnn@gmail.com</b></a> &nbsp;·&nbsp;
+  <a href="https://github.com/aslamndf"><b>🐙 GitHub</b></a>
 </p>
 
 ---
 
-<p align="center">⭐ Thanks for visiting! Feel free to explore my repositories and reach out — always open to new opportunities and collaborations.</p>
+<p align="center"><i>"Clean code always looks like it was written by someone who cares."</i></p>
