@@ -1,7 +1,7 @@
 <h1 align="center">Aslam Nadaf</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer+Microservices+%7C+Spring+Boot+%7C+Cloud+Native;Building+Scalable+Enterprise+Solutions"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+Microservices+%7C+Cloud+Native;Designing+Scalable+%26+Production-Grade+Systems;React.js+%7C+REST+APIs+%7C+OAuth2+%7C+AI+Integration"/>
 </p>
 
 <p align="center">
